@@ -70,7 +70,7 @@ Thanks to [spaceship.airforce](https://spaceship.airforce) (oh well, I really ta
 
 Assuming you already have a [Heroku](https://www.heroku.com/) account follow those steps:
 
-- [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://www.heroku.com/deploy?template=https://github.com/fastlane/boarding)
+- [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://www.heroku.com/deploy?template=https://github.com/mondough/boarding)
 - Enter your iTunes Connect credentials and the bundle identifier of your app. This will all be stored on your own Heroku instance as environment variables
 - Click on `View` once the setup is complete and start sharing the URL
 
@@ -153,7 +153,7 @@ From time to time there will be updates to `boarding`. There are 2 ways to updat
 ### Using Heroku website
 
 - Delete your application on [heroku.com](https://www.heroku.com/)
-- [Create a new boarding application](https://www.heroku.com/deploy?template=https://github.com/fastlane/boarding)
+- [Create a new boarding application](https://www.heroku.com/deploy?template=https://github.com/mondough/boarding)
 - Enter your user credentials again
 
 ##### [Like this tool? Be the first to know about updates and new fastlane tools](https://tinyletter.com/krausefx)
